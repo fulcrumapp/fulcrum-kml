@@ -4,8 +4,7 @@ A library for changing pin names of kml files produced in Fulcrum.
 
 There are two approaches you can take to rename a pin's name from a Fulcrum id.  
 
-
-##CSV-KML
+## CSV-KML
 
 Uses a csv file with the title of a record to update the kml pin name.  
 
