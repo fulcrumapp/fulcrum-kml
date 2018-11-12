@@ -45,9 +45,9 @@ Requires a kml file from Fulcrum.
 ### Usage
 
 In the python script:
-    - change the name of the kml file to match the file that you have downloaded from Fulcrum.
-    - update with your API key from your Fulcrum account.  
-    - update the field key with the field you want to have as the name.  
+    * change the name of the kml file to match the file that you have downloaded from Fulcrum.
+    * update with your API key from your Fulcrum account.  
+    * update the field key with the field you want to have as the name.  
 
 The python script and the kml file will need to be in the same folder.
 
