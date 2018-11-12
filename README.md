@@ -6,6 +6,8 @@ There are two approaches you can take to rename a pin's name from a Fulcrum id.
 
 ## CSV-KML
 
+Uses a csv file with the title of a record to update the kml pin name.  
+
 ### Requirements
 
 Requires a kml file from Fulcrum and a csv file from Fulcrum from the Downloader.
@@ -21,6 +23,8 @@ Run the script from terminal with `python Csv-Kml.py`
 
 
 ## API-KML
+
+Uses the fulcrum python api to retrieve the value of a field and update the kml pin name. 
 
 ### Requirements
 
