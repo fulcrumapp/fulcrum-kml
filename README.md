@@ -4,7 +4,7 @@ A library for changing pin names of kml files produced in Fulcrum.
 
 There are two approaches you can take to rename a pin's name from a Fulcrum id.  
 
-CSV-KML
+##CSV-KML
 
 Requirements
 
@@ -19,7 +19,7 @@ The python script, kml file, and csv file will need to be in the same folder.
 Run the script from terminal with 'python Csv-Kml.py'
 
 
-API-KML
+##API-KML
 
 Requirements
 
