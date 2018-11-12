@@ -8,23 +8,25 @@ There are two approaches you can take to rename a pin's name from a Fulcrum id.
 
 ### Requirements
 
-Requires a kml file from Fulcrum and a csv file from Fulcrum from the Downloader. 
+Requires a kml file from Fulcrum and a csv file from Fulcrum from the Downloader.
+The csv file must include the title column.  
 
 ### Usage
 
-In the python script change the names of the files to match the files that you have downloaded from Fulcrum.  
+In the python script, change the names of the files to match the files that you have downloaded from Fulcrum.  
 
 The python script, kml file, and csv file will need to be in the same folder.  
 
-Run the script from terminal with 'python Csv-Kml.py'
+Run the script from terminal with `python Csv-Kml.py`
 
 
 ## API-KML
 
 ### Requirements
 
-fulcrum-python needs to be installed.  Install it with pip install fulcrum
-fastkml needs to be installed. Install it with pip install fastkml  
+[fulcrum-python](https://github.com/fulcrumapp/fulcrum-python) needs to be installed.  Install it with `pip install fulcrum`
+
+[fastkml](https://fastkml.readthedocs.io/en/latest/installing.html) needs to be installed. Install it with `pip install fastkml`
 
 Requires a kml file from Fulcrum.  
 
@@ -37,7 +39,7 @@ In the python script:
 
 The python script and the kml file will need to be in the same folder.
 
-Run the script from terminal with 'python Api-Kml.py'
+Run the script from terminal with `python Api-Kml.py`
 
  
 
