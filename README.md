@@ -30,12 +30,6 @@ Run the script from terminal with `python Csv-Kml.py`
 
 Uses the fulcrum python api to retrieve the value of a field and update the kml pin name. 
 
-<<<<<<< HEAD
-##API-KML
-=======
-### Requirements
->>>>>>> ed5db7829b38e6c09e58dc0e4198e6f2a51faabf
-
 [fulcrum-python](https://github.com/fulcrumapp/fulcrum-python) needs to be installed.  Install it with `pip install fulcrum`
 
 [fastkml](https://fastkml.readthedocs.io/en/latest/installing.html) needs to be installed. Install it with `pip install fastkml`
@@ -44,7 +38,7 @@ Requires a kml file from Fulcrum.
 
 ### Usage
 
-In the python script:
+*In the python script:
     * change the name of the kml file to match the file that you have downloaded from Fulcrum.
     * update with your API key from your Fulcrum account.  
     * update the field key with the field you want to have as the name.  
