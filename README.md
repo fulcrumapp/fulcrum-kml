@@ -15,11 +15,9 @@ The csv file must include the title column.
 
 ### Usage
 
-In the python script, change the names of the files to match the files that you have downloaded from Fulcrum.  
-
 The python script, kml file, and csv file will need to be in the same folder.  
 
-Run the script from terminal with `python Csv-Kml.py`
+Run the script from terminal with `python csvkmlscript.py --csvfile 'csv-file.csv' --kmlfile 'kml-file.kml'`
 
 
 ## API-KML
